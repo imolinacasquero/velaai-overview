@@ -37,6 +37,16 @@ Each conversation is evaluated on two dimensions:
 - **Transparency (Art. 50):** did the bot identify itself as an AI in its first turn? Result: pass, weak, fail or not assessable, with one of 10 closed reason codes and the message that proves it.
 - **Quality:** customer friction and repetition (exact repeats, loops, late or refused escalation), with one of 16 closed reason codes and the turns that show it.
 
+### What the report looks like
+
+Screenshots from the small-business report, generated for a demo store ("Tienda Demo"). This profile is in Spanish and has no numeric scores: each problem comes with what happens, why, and steps to fix it this week, with a time estimate per step.
+
+![Report summary](assets/report-summary.png)
+
+![A detected problem with its fix steps](assets/report-problem.png)
+
+![Action plan](assets/report-plan.png)
+
 ### Web intake
 
 ```mermaid
